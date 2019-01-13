@@ -1,3 +1,4 @@
-# HackathonJan2nd
-This repo holds the code for Group 4's participation at the Co-op Hackathon.
-Note, due to the way data is stored. The website may not run on Firebox and Chrome browsers.
+# STITCH IT | Language Learning Web Game
+Stitch It is a language learning game that promotes active learning and teaching methods in a fun and interactive way. The game takes an English word provided by the user, and displays its individual syllables as floating bubbles. The player then selects the correct sequence of syllables by listening to an audio playback of the word, which you can slow down and speed up. The game is very simple but helps promote learning through active participation from the player.
+
+At its core, Stitch it is also very scalable, you can modify the game by adding new rules to handle other subjects like Mathematics, Chemistry, Physics, Biology, and etc.  However, the game currently only handles multiple languages like English, Korean, Chinese, and Japanese. In the future, Stitch it hopes of expanding to other languages.
